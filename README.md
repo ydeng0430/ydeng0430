@@ -1,6 +1,7 @@
+![Aspiring Data Analyst](https://media-exp1.licdn.com/dms/image/C5616AQGZI_aD6eHJ2A/profile-displaybackgroundimage-shrink_350_1400/0/1617865888329?e=1637798400&v=beta&t=eFds1kGDum1QlqLuW-kq87m8k5spgPJjGJ1xazgieNY)
 ### Hi there 👋, I am Yixi Deng
 #### Aspiring Data Analyst
-![Aspiring Data Analyst](https://media-exp1.licdn.com/dms/image/C5616AQGZI_aD6eHJ2A/profile-displaybackgroundimage-shrink_350_1400/0/1617865888329?e=1637798400&v=beta&t=eFds1kGDum1QlqLuW-kq87m8k5spgPJjGJ1xazgieNY)
+
 
 - Self-motivated, diligent, disciplined, and team-oriented Aspiring Data Analyst with strong statistical theory background and 
 data wrangling technical skills. 
