@@ -35,18 +35,26 @@ data wrangling technical skills.
      src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1504?cb=20200213050332" 
      style="width:40px;height:40px;" >
 
-
-#### Connect with me
+#### Portfolio Project Website
+<p>
+<a href="https://ydeng0430.github.io/portfolioprojects/" target="blank">
+  <img align="center" 
+       src="https://cdn.iconfinder.com/stored_data/42471/128/png?token=1632637128-vj4oAss5PuN7KSFCnQfyZJ%2F53j5pSMYmKrQvI9Yek64%3D" 
+       alt="asdf" height="40" width="40" />
+ </a>
+ </p>
+ 
+#### Connect with Me
 <p align="left">
 <a href="mailto:ydeng0430@gmail.com" target="blank">
   <img align="center" 
        src="https://cdn.iconfinder.com/stored_data/42459/128/png?token=1632636155-A0o8ZA%2F6Yn6QIcn50WccsnMMNFhATVgGhM2Em%2BBaMps%3D" 
-       alt="asdf" height="30" width="40" />
+       alt="asdf" height="40" width="40" />
  </a>
 <a href="https://www.linkedin.com/in/yixi-deng04/" target="blank">
   <img align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="asdf" height="30" width="40" />
+       alt="asdf" height="40" width="40" />
 </a>
 </p>
 
@@ -61,7 +69,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-### Github Stats
+#### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydeng0430&theme=tokyonight&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
