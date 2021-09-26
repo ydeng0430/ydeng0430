@@ -8,15 +8,49 @@ data wrangling technical skills.
 - Highly educated, possessing a Graduate Diploma, and a Postgraduate Diploma in statistics and a Bachelor’s, and a Master’s in finance. 
 - Bilingual in Chinese (Mandarin) and English. 
 
+#### Languages and Tools
+<img alt="R"
+     src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" 
+     style="width:40px;height:40px;" >
+<img alt="Python"
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+     style="width:40px;height:40px;">
+<img alt="SAS"
+     src="https://image.winudf.com/v2/image1/Y29tLnNhcy5hbmRyb2lkLmJpbW9iaWxlX2ljb25fMTU2NjU1NDc1OF8wMDU/icon.png?w=&fakeurl=1" 
+     style="width:40px;height:40px;" >
+<img alt="SQL"
+     src="https://cdn.iconfinder.com/stored_data/42447/128/png?token=1632634902-%2BK5NLRNzD7Rdp8zbguVMHroGwRudehmTG9SPy9Xa3Yk%3D" 
+     style="width:40px;height:40px;" >
+<img alt="HML"
+     src="https://cdn.iconfinder.com/stored_data/42445/128/png?token=1632634819-HgjInRE0QAd8HRUJ5Kjx%2FKEO0p%2FnxxDDwXaTLzMh8II%3D" 
+     style="width:40px;height:40px;" >
+<img alt="XML"
+     src="https://cdn.iconfinder.com/stored_data/42448/128/png?token=1632634948-bmtasq%2FwVgnCLdEbY857lvW%2FnvOqeZQN%2FLd5KwTmLos%3D" 
+     style="width:40px;height:40px;" >
+<br>
+<img alt="shiny"
+     src="https://blog.efpsa.org/wp-content/uploads/2019/04/pic1.png" 
+     style="width:40px;height:40px;" >
+
+
+#### Connect with me
+<p align="left">
+<a href="mailto:ydeng0430@gmail.com" target="blank">
+  <img align="center" 
+       src="https://cdn.iconfinder.com/stored_data/42459/128/png?token=1632636155-A0o8ZA%2F6Yn6QIcn50WccsnMMNFhATVgGhM2Em%2BBaMps%3D" 
+       alt="asdf" height="30" width="40" />
+ </a>
+<a href="https://www.linkedin.com/in/yixi-deng04/" target="blank">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="asdf" height="30" width="40" />
+</a>
+</p>
 
 
 
-Skills: R/ SAS / SQL / HTML / XML
 
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me: ydeng0430@gmail.com 
-
-#### Coding stats
+#### Coding Stats
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
@@ -24,16 +58,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-#### Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/asdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asdf" height="30" width="40" /></a>
-</p>
-
-#### Languages and Tools
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asdf&show_icons=true&locale=en&layout=compact" alt="asdf" /></p>
-
+### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydeng0430&theme=tokyonight&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yixi-deng04//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ydeng0430.github.io/portfolioprojects/)  
