@@ -27,7 +27,11 @@ data wrangling technical skills.
 <img alt="XML"
      src="https://cdn.iconfinder.com/stored_data/42448/128/png?token=1632634948-bmtasq%2FwVgnCLdEbY857lvW%2FnvOqeZQN%2FLd5KwTmLos%3D" 
      style="width:40px;height:40px;" >
+     
 #### Visualisation Tools
+<img alt="ggplot2"
+     src="https://ggplot2.tidyverse.org/logo.png" 
+     style="width:40px;height:40px;" >
 <img alt="shiny"
      src="https://blog.efpsa.org/wp-content/uploads/2019/04/pic1.png" 
      style="width:40px;height:40px;" >
