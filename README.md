@@ -8,7 +8,7 @@ data wrangling technical skills.
 - Highly educated, possessing a Graduate Diploma, and a Postgraduate Diploma in statistics and a Bachelor’s, and a Master’s in finance. 
 - Bilingual in Chinese (Mandarin) and English. 
 
-#### Languages and Tools
+#### Languages
 <img alt="R"
      src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" 
      style="width:40px;height:40px;" >
@@ -27,9 +27,12 @@ data wrangling technical skills.
 <img alt="XML"
      src="https://cdn.iconfinder.com/stored_data/42448/128/png?token=1632634948-bmtasq%2FwVgnCLdEbY857lvW%2FnvOqeZQN%2FLd5KwTmLos%3D" 
      style="width:40px;height:40px;" >
-<br>
+#### Visualisation Tools
 <img alt="shiny"
      src="https://blog.efpsa.org/wp-content/uploads/2019/04/pic1.png" 
+     style="width:40px;height:40px;" >
+<img alt="Power BI"
+     src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1504?cb=20200213050332" 
      style="width:40px;height:40px;" >
 
 
