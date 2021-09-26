@@ -58,11 +58,9 @@ data wrangling technical skills.
 <a href="https://www.linkedin.com/in/yixi-deng04/" target="blank">
   <img align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="asdf" height="40" width="40" />
+       alt="asdf" height="28" width="28" />
 </a>
 </p>
-
-
 
 
 #### Coding Stats
