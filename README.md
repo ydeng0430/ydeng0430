@@ -19,13 +19,13 @@ data wrangling technical skills.
      src="https://image.winudf.com/v2/image1/Y29tLnNhcy5hbmRyb2lkLmJpbW9iaWxlX2ljb25fMTU2NjU1NDc1OF8wMDU/icon.png?w=&fakeurl=1" 
      style="width:40px;height:40px;" >
 <img alt="SQL"
-     src="https://cdn.iconfinder.com/stored_data/42447/128/png?token=1632634902-%2BK5NLRNzD7Rdp8zbguVMHroGwRudehmTG9SPy9Xa3Yk%3D" 
+     src="SQL.png" 
      style="width:40px;height:40px;" >
-<img alt="HML"
-     src="https://cdn.iconfinder.com/stored_data/42445/128/png?token=1632634819-HgjInRE0QAd8HRUJ5Kjx%2FKEO0p%2FnxxDDwXaTLzMh8II%3D" 
+<img alt="HTML"
+     src="HTML.png" 
      style="width:40px;height:40px;" >
 <img alt="XML"
-     src="https://cdn.iconfinder.com/stored_data/42448/128/png?token=1632634948-bmtasq%2FwVgnCLdEbY857lvW%2FnvOqeZQN%2FLd5KwTmLos%3D" 
+     src="XML.png" 
      style="width:40px;height:40px;" >
      
 #### Visualisation Tools
@@ -43,7 +43,7 @@ data wrangling technical skills.
 <p>
 <a href="https://ydeng0430.github.io/portfolioprojects/" target="blank">
   <img align="center" 
-       src="https://cdn.iconfinder.com/stored_data/42471/128/png?token=1632637128-vj4oAss5PuN7KSFCnQfyZJ%2F53j5pSMYmKrQvI9Yek64%3D" 
+       src="WEB.png" 
        alt="asdf" height="40" width="40" />
  </a>
  </p>
@@ -52,7 +52,7 @@ data wrangling technical skills.
 <p align="left">
 <a href="mailto:ydeng0430@gmail.com" target="blank">
   <img align="center" 
-       src="https://cdn.iconfinder.com/stored_data/42459/128/png?token=1632636155-A0o8ZA%2F6Yn6QIcn50WccsnMMNFhATVgGhM2Em%2BBaMps%3D" 
+       src="EMAIL.png" 
        alt="asdf" height="40" width="40" />
  </a>
 <a href="https://www.linkedin.com/in/yixi-deng04/" target="blank">
